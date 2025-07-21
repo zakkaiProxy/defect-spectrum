@@ -1,6 +1,13 @@
 # Defect spectrum
 A game development guide for tracking bugs based on software engineering error naming conventions
 
+## Why a guide?
+The purpose of knowing the name of your bugs is not only to know a "name" by itself but to identify where to track it and how bad does it affect your game in the stage of development where you find it, how much time, cost, and effort will it take you to fix it, and how bad does it affect your players.
+
+As solo-devs we might think ***"Well if there is a bug in my game why would I overlook it and not fix it?"*** 
+
+Some bugs are present in your game but only become visible after a combination of actions from the player. These are addresed as `defects`. But if that doesn't happen, the bug will exist at all stages of development of your game `latent defects`. Sometimes that's ok, sometimes it is not.
+
 ![](https://github.com/zakkaiProxy/defect-spectrum/blob/main/blueprint/defect-spectrum.png)
 
 # 🎮Game developer/tester challenge🎴 
